@@ -1,0 +1,16 @@
+body{
+background-image: url(Backgrr.webp);
+    background-position:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+#clock{
+    font-size: 6rem;
+    font-family:fantasy;
+    color: white;
+    white-space: nowrap;
+}
